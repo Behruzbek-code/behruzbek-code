@@ -4,7 +4,7 @@ Hi, I'm Behruz Ibrohimov 👋
 
 iOS Developer | UI Developer | Aspiring Software Engineer
 
-<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" />
+<img src="https://www.behance.net/gallery/29542637/ANIMATED-GIF" width="100%" />
 
 Building ideas into reality. Turning code into products. 🚀
 
