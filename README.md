@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Azizbek Nurmuhammadov Johongirovich 👋
+# Hi, I'm Behruz Ibrohimov Mansurjonocich👋
 
 <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" />
 
-Backend Developer | Python Developer | iOS Developer
+ UI Developer | iOS Developer
 
 </div>
 
@@ -17,10 +17,10 @@ Backend Developer | Python Developer | iOS Developer
 </div>
 
 
-const azizbek = {
-    name: "Azizbek Nurmuhammadov Johongirovich",
-    nickname: "Mobel",
-    role: "Backend Developer",
+const behruz = {
+    name: "Behruz Ibrohimov Mansurjonovich",
+    nickname: "Beka",
+    role: "iOS Developer",
     location: "Fergana, Uzbekistan",
 
     languages: ["Python", "JavaScript", "Swift"],
@@ -91,23 +91,23 @@ const azizbek = {
 
 📍 Uzbekistan, Fergana &nbsp; • &nbsp; 🏢 MOBEL
 
-📧 [azizbeknurmuhammadov747@gmail.com](mailto:azizbeknurmuhammadov747@gmail.com)
+📧 [behruzibrohimov804@gmail.com](mailto:behruzibrohimov804@gmail.com)
 
-💬 [@just_mobel](https://t.me/just_mobel)
+💬 [@ibrohimov_bm](https://t.me/ibrohimov_bm)
 
 <br/>
 
-<a href="https://github.com/mobel-code">
-  <img src="https://img.shields.io/badge/GitHub-MOBEL--CODE-242938?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/behruzbek-code">
+  <img src="https://img.shields.io/badge/GitHub-BEHRUZBEK--CODE-242938?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://instagram.com/just_mobel/">
-  <img src="https://img.shields.io/badge/Instagram-JUST__MOBEL-242938?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://instagram.com/ibrkhmov_bm/">
+  <img src="https://img.shields.io/badge/Instagram-ibrkhmov_bm-242938?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="mailto:azizbeknurmuhammadov747@gmail.com">
+<a href="mailto:behruzibrohimov804@gmail.com">
   <img src="https://img.shields.io/badge/Email-CONTACT-242938?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://t.me/just_mobel">
+<a href="https://t.me/ibrohimov_bm">
   <img src="https://img.shields.io/badge/Telegram-CONTACT-242938?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
