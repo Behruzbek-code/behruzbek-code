@@ -1,118 +1,143 @@
 <div align="center">
 
-# Hi, I'm Behruz Ibrohimov Mansurjonovich👋
+Hi, I'm Behruz Ibrohimov 👋
+
+iOS Developer | UI Developer | Aspiring Software Engineer
 
 <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" />
 
- UI Developer | iOS Developer
+Building ideas into reality. Turning code into products. 🚀
+
+
+
+
 
 </div>
-
----
 
 <div align="center">
 
-## About Me
+👨‍💻 About Me
 
 </div>
-
 
 const behruz = {
     name: "Behruz Ibrohimov Mansurjonovich",
     nickname: "Beka",
-    role: "iOS Developer",
     location: "Fergana, Uzbekistan",
+    role: ["iOS Developer", "UI Developer"],
 
-    languages: ["Python", "JavaScript", "Swift"],
+    languages: [
+        "Swift",
+        "Python",
+        "JavaScript"
+    ],
 
     technologies: {
+        ios: ["Swift", "SwiftUI", "Xcode"],
         backend: ["FastAPI", "Django"],
         database: ["PostgreSQL", "SQLite"],
-        tools: ["Git", "GitHub", "PyCharm", "Xcode"]
+        tools: ["Git", "GitHub", "PyCharm"]
     },
 
-    currentlyLearning: ["iOS Development", "SwiftUI"],
+    currentlyLearning: [
+        "iOS Development",
+        "SwiftUI"
+    ],
 
     interests: [
-        "Backend Systems",
         "Artificial Intelligence",
-        "Startups"
-    ]
+        "Backend Systems",
+        "Startups",
+        "Product Development"
+    ],
+
+    mindset: "Learn. Build. Improve. Repeat."
 };
 
-
----
-
 <div align="center">
 
-## Technologies & Tools
+🛠️ Technologies & Tools
 
-### Backend
+📱 iOS Development
 
-<img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-242938?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-242938?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-242938?style=for-the-badge&logo=swift&logoColor=F05138" />
+<img src="https://img.shields.io/badge/SwiftUI-242938?style=for-the-badge&logo=swift&logoColor=F05138" />
+<img src="https://img.shields.io/badge/Xcode-242938?style=for-the-badge&logo=xcode&logoColor=147EFB" />
 
-### Database
+⚙️ Backend Development
 
-<img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-242938?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/FastAPI-242938?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Django-242938?style=for-the-badge&logo=django&logoColor=092E20" />
+<img src="https://img.shields.io/badge/JavaScript-242938?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-### Tools & Platforms
+🗄️ Databases
 
-<img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-242938?style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-242938?style=for-the-badge&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/SQLite-242938?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+
+🔧 Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/PyCharm-242938?style=for-the-badge&logo=pycharm&logoColor=21D789" />
 
 </div>
 
----
-
 <div align="center">
 
-## GitHub Stats
+📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=mobel-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="49%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=behruzbek-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobel-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="41%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behruzbek-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" />
 
-## GitHub Streak
+🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=mobel-code&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=behruzbek-code&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="80%" />
 
 </div>
 
----
+<div align="center">
+
+🚀 What I'm Working On
+
+📱 Exploring iOS development with Swift and SwiftUI.
+
+⚙️ Improving my backend development skills.
+
+🧠 Learning about artificial intelligence and modern technologies.
+
+💡 Turning ideas into useful digital products.
+
+</div>
 
 <div align="center">
 
-## Connect with Me
+🤝 Connect With Me
 
-📍 Uzbekistan, Fergana &nbsp; • &nbsp; 🏢 MOBEL
+📍 Fergana, Uzbekistan
 
-📧 [behruzibrohimov804@gmail.com](mailto:behruzibrohimov804@gmail.com)
+📧 Email: behruzibrohimov804@gmail.com
 
-💬 [@ibrohimov_bm](https://t.me/ibrohimov_bm)
+💬 Telegram: @ibrohimov_bm
+
+📸 Instagram: @ibrkhmov_bm
+
+💻 GitHub: @behruzbek-code
+
+🔗 LinkedIn: Behruz Ibrohimov
 
 <br/>
 
-<a href="https://github.com/behruzbek-code">
-  <img src="https://img.shields.io/badge/GitHub-BEHRUZBEK--CODE-242938?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://instagram.com/ibrkhmov_bm/">
-  <img src="https://img.shields.io/badge/Instagram-ibrkhmov_bm-242938?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:behruzibrohimov804@gmail.com">
-  <img src="https://img.shields.io/badge/Email-CONTACT-242938?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/ibrohimov_bm">
-  <img src="https://img.shields.io/badge/Telegram-CONTACT-242938?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Building-242938?style=for-the-badge&logo=rocket&logoColor=58A6FF" />
 
 <br/><br/>
 
-<i>Building ideas into reality. 🚀</i>
+<i>"Great things are built one line of code at a time."</i>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=120&section=footer" />
 
 </div>
